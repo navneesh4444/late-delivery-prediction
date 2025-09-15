@@ -46,7 +46,6 @@ Interactive map of routes (origin → customer):
 - 🔴 Red → High risk  
 
 Example output:  
-![Route Risk Map](route_risk_map.png)  
 *(Map is also available as `route_risk_map.html` for interactive exploration.)*
 
 ---
